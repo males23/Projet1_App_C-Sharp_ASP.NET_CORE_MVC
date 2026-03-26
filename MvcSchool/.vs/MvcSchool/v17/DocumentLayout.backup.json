@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\males\\Documents\\GitHub\\Projet1_App_C-Sharp_ASP.NET_CORE_MVC\\Projet1_App_C-Sharp_ASP.NET_CORE_MVC\\MvcSchool\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97CA4C46-8093-4967-9A4B-C6153938F219}|MvcSchool\\MvcSchool.csproj|c:\\users\\males\\documents\\github\\projet1_app_c-sharp_asp.net_core_mvc\\projet1_app_c-sharp_asp.net_core_mvc\\mvcschool\\mvcschool\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97CA4C46-8093-4967-9A4B-C6153938F219}|MvcSchool\\MvcSchool.csproj|solutionrelative:mvcschool\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\males\\Documents\\GitHub\\Projet1_App_C-Sharp_ASP.NET_CORE_MVC\\Projet1_App_C-Sharp_ASP.NET_CORE_MVC\\MvcSchool\\MvcSchool\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcSchool\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\males\\Documents\\GitHub\\Projet1_App_C-Sharp_ASP.NET_CORE_MVC\\Projet1_App_C-Sharp_ASP.NET_CORE_MVC\\MvcSchool\\MvcSchool\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MvcSchool\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-25T23:03:17.138Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
